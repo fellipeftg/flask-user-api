@@ -1,6 +1,6 @@
-# User Management API
+# API de Grenciamento de Usuários
 
-API REST desenvolvida com *Flask* e *PostgreSQL* para gerenciamento de usuários.
+API REST desenvolvida com **Flask** e **PostgreSQL** para gerenciamento de usuários.
 
 ## Tecnologias
 
@@ -36,3 +36,7 @@ Configure o `.env`
 Execute:
 
 python run.py
+
+## Autor
+
+Fellipe Furtado Teixeira
