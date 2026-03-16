@@ -1,4 +1,4 @@
-# API de Grenciamento de Usuários
+# API de Gerenciamento de Usuários
 
 API REST desenvolvida com **Flask** e **PostgreSQL** para gerenciamento de usuários.
 
